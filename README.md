@@ -1,5 +1,7 @@
 # Varnion QR Code Generator
 
+**🌐 Live Application:** [https://varnion-qr.vlepo.id](https://varnion-qr.vlepo.id)
+
 A production-ready web application for creating customizable QR codes with advanced styling options, real-time preview, and multiple export formats.
 
 ## Features
