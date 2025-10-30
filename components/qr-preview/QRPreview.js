@@ -97,8 +97,8 @@ export default function QRPreview() {
               errorCorrectionLevel: qrConfig.errorCorrectionLevel,
             },
             dotsOptions,
-            cornerSquareOptions,
-            cornerDotsOptions,
+            cornersSquareOptions: cornerSquareOptions,
+            cornersDotOptions: cornerDotsOptions,
             backgroundOptions: {
               color: qrConfig.style.backgroundColor,
             },

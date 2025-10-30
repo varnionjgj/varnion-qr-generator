@@ -89,8 +89,8 @@ export default function ExportButton() {
         errorCorrectionLevel: qrConfig.errorCorrectionLevel,
       },
       dotsOptions,
-      cornerSquareOptions,
-      cornerDotsOptions,
+      cornersSquareOptions: cornerSquareOptions,
+      cornersDotOptions: cornerDotsOptions,
       backgroundOptions: {
         color: qrConfig.style.backgroundColor,
       },
@@ -173,8 +173,8 @@ export default function ExportButton() {
         errorCorrectionLevel: qrConfig.errorCorrectionLevel,
       },
       dotsOptions,
-      cornerSquareOptions,
-      cornerDotsOptions,
+      cornersSquareOptions: cornerSquareOptions,
+      cornersDotOptions: cornerDotsOptions,
       backgroundOptions: {
         color: qrConfig.style.backgroundColor,
       },
